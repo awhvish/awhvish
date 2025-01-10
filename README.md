@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Avis</h1>
-<h3 align="center">A passionate Sofware Developer</h3>
+<h1 align="center">Hello World! I'm Avis</h1>
+<h3 align="center">A Sofware Engineer</h3>
 
 - 🔭 I’m currently working on [chat-app](https://github.com/awhvish/chat-app)
 
 - 🌱 I’m currently learning **Web Sockets & Electron.js**
 
-- 👨‍💻 All of my projects are available at [awhvish.vercel.app](awhvish.vercel.app)
+- 👨‍💻 All of my projects are available: [projects](awhvish.vercel.app/projects)
 
-- 💬 Ask me about **React, Express, Next**
+- 📫 How to contact me: **avislowha9@gmail.com**
 
-- 📫 How to reach me **avislowha9@gmail.com**
-
-- 📄 Know about my experiences [https://awhvish.vercel.app/Avis_resume_v3.pdf](https://awhvish.vercel.app/Avis_resume_v3.pdf)
+- 📄 Checkout my resume: [resume](https://awhvish.vercel.app/Avis_resume_v3.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
