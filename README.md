@@ -1,13 +1,13 @@
-<h1 align="center">Hello World! I'm Avis</h1>
+<h1 align="center">Hello World! <br/> I'm Avis</h1>
 <h3 align="center">A Sofware Engineer</h3>
 
-- 🔭 I’m currently working on [chat-app](https://github.com/awhvish/chat-app)
+- 🔭 My portfolio: [portfolio](https://github.com/awhvish/)
 
 - 🌱 I’m currently learning **Web Sockets & Electron.js**
 
-- 👨‍💻 All of my projects are available: [projects](awhvish.vercel.app/projects)
+- 👨‍💻 All of my projects are available: [projects](https://awhvish.vercel.app/projects)
 
-- 📫 How to contact me: **avislowha9@gmail.com**
+- 📫 How to contact me: [contact](https://awhvish.vercel.app/contact)
 
 - 📄 Checkout my resume: [resume](https://awhvish.vercel.app/Avis_resume_v3.pdf)
 
