@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <br/> I'm Avis</h1>
 <h3 align="center">A Sofware Engineer</h3>
 
-- 🔭 My portfolio: [portfolio](https://github.com/awhvish/)
+- 🔭 My portfolio: [portfolio](https://awhvish.vercel.app)
 
 - 🌱 I’m currently learning **Web Sockets & Electron.js**
 
