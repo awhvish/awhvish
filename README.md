@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! <br/> I'm Avis</h1>
-<h3 align="center">A Sofware Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 My portfolio: [portfolio](https://awhvish.vercel.app)
 
