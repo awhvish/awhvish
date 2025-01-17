@@ -20,6 +20,6 @@ const Avis = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>React out to me through LinkedIn or my personal portfolio (preferably) </b> </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Reach out to me through LinkedIn or my personal portfolio (preferably) </b> </em>
 
 ---
