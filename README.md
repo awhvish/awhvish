@@ -4,7 +4,7 @@
 
 [![Portfolio: awhvish](https://img.shields.io/badge/My%20Portfolio%20-20B2AA?style=for-the-badge)](https://awhvish.vercel.app)
 [![Twitter: Avis Lowha](https://img.shields.io/twitter/follow/awhvish?style=social)](https://x.com/awhvish)
-[![Linkedin: Avis Lowha](https://img.shields.io/badge/-Avis_Lowha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](linkedin.com/in/avis-lowha-278aa1159/)
+[![Linkedin: Avis Lowha](https://img.shields.io/badge/-Avis_Lowha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://linkedin.com/in/avis-lowha-278aa1159/)
 [![GitHub: awhvish](https://img.shields.io/github/followers/awhvish?label=follow&style=social)](https://github.com/awhvish)
 
 
