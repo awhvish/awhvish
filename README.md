@@ -1,5 +1,4 @@
 <h2> Hi. I'm Avis Lowha. </h2>
-<img align='right' src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="230">
 <p><em>A Software Developer & Student at <a href="https://www.manipal.edu/mu/campuses/mahe-bengaluru/academics/institution-list/mitblr.html">MIT Bengaluru</a></br>Currently working on <a href="https://www.github.com/awhvish/chat-app">chat-app</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
