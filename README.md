@@ -14,8 +14,8 @@
 const Avis = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, C++, Python, Java],
-  tools: [React, Next, TailwindCSS, MongoDB, Prisma, Express, Node, Flask],
-  packages: [SocketIO, AuthJS ],
+  tools: [React, Next, TailwindCSS, MongoDB, Prisma, Express, NestJS, Node, Flask],
+  packages: [SocketIO, AuthJS, Zustand, Redux, Jest, Swagger],
  challenge: "I am doing the #300DaysOfCode challenge on leetcode currently"
 }
 ```
