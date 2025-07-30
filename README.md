@@ -1,5 +1,5 @@
 <h2> Hi. I'm Avis Lowha. </h2>
-<p><em>A Web Developer & Student at <a href="https://www.manipal.edu/mu/campuses/mahe-bengaluru/academics/institution-list/mitblr.html">MIT Bengaluru</a></br>Currently working on <a href="https://www.github.com/awhvish/chat-app">chat-app</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>A Web Developer & Student at <a href="https://www.manipal.edu/mu/campuses/mahe-bengaluru/academics/institution-list/mitblr.html">MIT Bengaluru</a>
 </em></p>
 
 [![Portfolio: awhvish](https://img.shields.io/badge/My%20Portfolio%20-20B2AA?style=for-the-badge)](https://awhvish.is-a.dev)
