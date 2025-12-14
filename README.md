@@ -12,8 +12,7 @@
 
 ```javascript
 const Avis = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, C++, Python, Java],
+  code: [Javascript, Typescript, C++, Python, Java, Go],
   tools: [React, Next, TailwindCSS, MongoDB, Prisma, Express, NestJS, Node, Flask],
   packages: [SocketIO, AuthJS, Zustand, Redux, Jest, Swagger],
  challenge: "I am doing the #300DaysOfCode challenge on leetcode currently"
