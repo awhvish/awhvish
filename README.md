@@ -12,20 +12,20 @@
 ```javascript
 const Avis: SoftwareEngineer = {
   name: "Avis Lowha",
-  role: "Systems & Backend Engineer",
+  role: "Systems & Backend Focused",
   architecture: ["Distributed Systems", "Microservices", "Event-Driven"],
   
   stack: {
-    languages: ["Go", "C++", "TypeScript", "Python", "SQL"],
-    core: ["gRPC", "Raft Consensus", "LSM-Trees", "Concurrency", "Linux"],
-    web: ["Next.js", "React", "NestJS", "TailwindCSS"],
-    infrastructure: ["Docker", "AWS (EC2)", "Redis", "MongoDB"]
+    languages: ["Go", "C++", "Node.js", "Python", ],
+    core: ["gRPC", "Raft Consensus", "Linux"],
+    web: ["Next.js", "React", "NestJS", "Express.js"],
+    infrastructure: ["Docker", "AWS", "Redis", "MongoDB"]
   },
 
   challenge: () => "Building high-throughput, fault-tolerant systems."
 };
 ```
 
-<em><b>Reach out to me through LinkedIn or my personal portfolio </b> </em>
+<em><b>Reach out to me through LinkedIn </b> </em>
 
 ---
