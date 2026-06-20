@@ -1,5 +1,5 @@
 <h2> Hi. I'm Avis Lowha. </h2>
-<p><h3>Software Engineering Student | Web Developer</h3></a>
+<p><h3>Software Engineer</h3></a>
 </p>
 
 [![Twitter: Avis Lowha](https://img.shields.io/twitter/follow/awhvish?style=social)](https://x.com/awhvish)
@@ -16,13 +16,13 @@ const Avis: SoftwareEngineer = {
   architecture: ["Distributed Systems", "Microservices", "Event-Driven"],
   
   stack: {
-    languages: ["Go", "C++", "Node.js", "Python", ],
+    languages: ["Go", "C++", "TypeScript", "Python", "Java"],
     core: ["gRPC", "Raft Consensus", "Linux"],
     web: ["Next.js", "React", "NestJS", "Express.js"],
-    infrastructure: ["Docker", "AWS", "Redis", "MongoDB"]
+    infrastructure: ["Docker", "Kubernetes", "GCP", "AWS", "Redis", "MongoDB"]
   },
 
-  challenge: () => "Building high-throughput, fault-tolerant systems."
+  challenge: () => "Forbes 30 under 30"
 };
 ```
 
